@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.ngjiaxue.realtimeassignment1","l":"Data"},{"p":"com.ngjiaxue.realtimeassignment1","l":"Main"},{"p":"com.ngjiaxue.realtimeassignment1","l":"Methods"},{"p":"com.ngjiaxue.realtimeassignment1","l":"WriteToExcel"}];updateSearchResults();
